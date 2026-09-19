@@ -7782,6 +7782,9 @@
 /obj/item/stack/sheet/mineral/silver{
 	amount = 15
 	},
+/obj/item/stack/sheet/bluespace_crystal,
+/obj/item/stack/sheet/bluespace_crystal,
+/obj/item/stack/sheet/bluespace_crystal,
 /turf/open/floor/circuit/red/airless,
 /area/ruin/space/ks13/ai/vault)
 "WO" = (
